@@ -7,7 +7,5 @@ media = (nota1 + nota2) / 2
 
 if media <= 5.0:
     print("a nota média do aluno foi de {:.1f} portanto o aluno está REPROVADO! :/ " .format(media))
-elif media >= 5.1 and media <= 6.9:
       print("A média do aluno foi de {:.1f} e portanto o aluno está em RECUPERAÇÃO!!!  " .format(media))
-elif media >= 7.0:
     print("A nota média do aluno foi de {:.1f} e o aluno está APROVADO!!! :D " .format(media))
